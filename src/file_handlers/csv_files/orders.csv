@@ -1,0 +1,8 @@
+status,courier,customer_name,customer_address,customer_phone,items
+En route,3,John,"Unit 2, 12 Main Street, LONDON, WH1 2ER",789887889,"[2, 3, 1, 1, 3, 4]"
+Preparing,3,Tim,dadsfffs,2323233,"[3, 4]"
+Preparing,1,Luke,adgadfbjkdfd,3784644667423,"[3, 4]"
+Ready,2,Sjjasj,18 atherton,76111111111,"[4, 3, 1]"
+Delivered,2,Filly,adfsdfsdfsd,231231232,"[4, 2]"
+En route,1,Yonis,37 london,78222114,"[1, 3, 5]"
+Preparing,1,Philip,"27 Tilldy Road, London, E12 1PL",7816482394,"[2, 4]"
