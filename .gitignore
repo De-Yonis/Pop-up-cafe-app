@@ -1,3 +1,5 @@
 .DS_Store
 src/file_handlers/__pycache__/txt.cpython-37.pyc
 src/file_handlers/__pycache__/csv.cpython-37.pyc
+.venv
+.env
