@@ -1,5 +1,7 @@
 Generation's/Infinity Works mini project
 
+Solo project completed between weeks 1 & 6 of the Data Engineering Bootcamp
+
 Overview: 
 A software application built with Python for a pop-up cafe so they can create orders for customers. It stores data in a MySQL database and allows the user to perform CRUD operations on their data, based on the following user stories:
 
